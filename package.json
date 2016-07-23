@@ -1,0 +1,16 @@
+{
+  "name": "site-web-wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaayru/gulp-sprite"
+  },
+  "author": "Vincent BALLUT",
+  "license": "ISC"
+}
