@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp.spritesmith": "^6.2.1"
+    "gulp.spritesmith": "^6.5.0"
   },
   "repository": {
     "type": "git",
